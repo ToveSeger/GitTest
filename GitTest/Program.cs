@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 
+
 namespace GitTest
 {
     class Program
@@ -51,8 +52,31 @@ namespace GitTest
             //alternativt sätt 
 
             Console.WriteLine(string.Join(',' ,firstOne));
-            //Console.WriteLine(string.Join(',', firstOne.reverse));
+            //Console.WriteLine(string.Join(',', firstOne.Reverse)); //KOLLA DENNA SEN
+            string[] monthArray = new string
+            {"Januari",
+             "februari", 
+             "mars", 
+             "april",
+             "maj",
+             "juni", 
+             "juli", 
+             "augusti", 
+             "september",
+             "oktober", 
+             "november",
+             "december" 
+            };
 
+            string number;
+            int choiche;
+
+            do
+            {
+                Console.WriteLine("Select a number from 1-12");
+                string choice = Console.ReadLine();
+                int choiceInInt = Convert.ToInt32(choice);
+            } while (true);
 
 
 
