@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T12:37:47.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="XcGNnQt7WYc_Micitnbu" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T12:39:42.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="lQSNaNjsT71_K-04WWUA" version="14.4.8" type="github">
   <diagram id="leTUhT-zFQobONTENNMR" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -199,6 +199,12 @@
         </mxCell>
         <mxCell id="EXiGh36RY0hB33X0RfPo-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="1" source="EXiGh36RY0hB33X0RfPo-45" target="EXiGh36RY0hB33X0RfPo-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXiGh36RY0hB33X0RfPo-111" value="&lt;font style=&quot;font-size: 50px&quot;&gt;Book Shop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;shadow=0;fontStyle=1;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1090" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EXiGh36RY0hB33X0RfPo-112" value="By Tove Seger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontColor=#FFB570;fontSize=20;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="-413" y="-1060" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
